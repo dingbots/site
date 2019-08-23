@@ -1,0 +1,3 @@
+pulumi>=1.0a1
+pulumi_aws>=1.0a1
+pipenv
